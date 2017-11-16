@@ -1,7 +1,5 @@
-*.iml
+# Add any directories, files, or patterns you don't want to be tracked by version control
+build
+out
+.gradle
 .idea
-.DS_Store
-target
-plugin.xml
-grails*.zip
-grails*.zip.sha1
